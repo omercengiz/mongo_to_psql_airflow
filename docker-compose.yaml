@@ -152,10 +152,8 @@ services:
 
 volumes:
   postgres-db-volume:
-  postgres_data:
   airflow:
-  spark:
-  mongo_data:
+
   
 
 networks:
